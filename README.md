@@ -1,5 +1,5 @@
 ## About me
-Hello, and welcome to my GitHub profile! My name is <b>David Pizarro Frick</b>, and I'm a junior fullstack Software Developer. My preferred area of focus is the world of JavaScript, and I'm always striving to stay up-to-date with the latest technologies.
+Hello, and welcome to my GitHub profile! My name is <b>David Pizarro Frick</b>, and I'm a Junior Software Developer and passionate about the world of technology. My preferred area of focus is the world of JavaScript, and I'm always striving to stay up-to-date with the latest technologies.
 
 <br />
 
