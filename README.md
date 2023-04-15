@@ -21,7 +21,7 @@ Hello, and welcome to my GitHub profile! My name is <b>David Pizarro Frick</b>, 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" style="background-color: #E7E9EB; border-radius: 5px"/> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" style="background-color: #fff; border-radius: 5px"/> 
 	</a> 
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="border-radius: 5px" /> 
