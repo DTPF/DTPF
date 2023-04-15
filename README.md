@@ -77,6 +77,7 @@ Hello, and welcome to my GitHub profile! I'm a Junior Software Developer and pas
 
 <br />
 
-
-[![David T. Pizarro Frick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTPF&layout=compact&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 ![David T. Pizarro Frick's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTPF&show_icons=true)
+</br>
+[![David T. Pizarro Frick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTPF&layout=compact&hide_progress=false)]
+
