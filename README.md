@@ -81,3 +81,9 @@ Hello, and welcome to my GitHub profile! I'm a Junior Software Developer and pas
 </br>
 ![David T. Pizarro Frick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTPF&layout=compact&hide_progress=false)
 
+<div align="center"> 
+  <p>You are the visitor number</p> 
+    
+  ![Visitor Count](https://profile-counter.glitch.me/jesusfvj/count.svg) 
+</div>
+
