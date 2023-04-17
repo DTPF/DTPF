@@ -84,6 +84,6 @@ Hello, and welcome to my GitHub profile! I'm a Junior Software Developer and pas
 <div align="center"> 
   <p>You are the visitor number</p> 
     
-  ![Visitor Count](https://profile-counter.glitch.me/jesusfvj/count.svg) 
+  ![Visitor Count](https://profile-counter.glitch.me/DTPF/count.svg) 
 </div>
 
