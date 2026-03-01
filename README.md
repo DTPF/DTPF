@@ -1,85 +1,48 @@
-## About me
-Hello, and welcome to my GitHub profile! I'm a Software Developer and passionate about the world of technology. My preferred area of focus is the world of JavaScript, and I'm always striving to stay up-to-date with the latest technologies.
+# Hi, I'm David
 
-<br />
+I'm a full-stack developer based in Spain. I started coding in 2020 and have since built and deployed 5 production web applications that I manage end-to-end — from writing the code to configuring the Linux servers, Nginx, SSL certificates and CI/CD pipelines.
 
-📫 How you can contact me: **davidpizarrofrick@gmail.com**
+Everything I build runs on my own self-managed infrastructure: bare-metal servers, Docker, GitHub Actions with a self-hosted runner, and automated deployments.
 
-### Connect with me:
-<p align="left">
-	<a href="https://www.linkedin.com/in/david-tomas-pizarro-frick/" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joe-alt" height="30" width="40" />
-	</a>
+## What I'm Building
+
+- **[dauth](https://dauth.ovh)** — Multi-tenant authentication-as-a-service with per-tenant JWT, published npm packages, and OVH DNS integration.
+- **[EasyMediaCloud](https://easymediacloud.dtpf.es)** — Media storage platform.
+- **[Dalist](https://dalist.ovh)** — Wishlist management app.
+- **[Audity](https://audity.dtpf.es)** — Music streaming platform.
+- **[dtpf.es](https://dtpf.es)** — My personal portfolio.
+
+> These repos are private because CI/CD with a self-hosted GitHub Actions runner requires private repos on the free plan.
+
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=DTPF&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTPF&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
-### Languages and Tools:
-
-<p align="left"> 
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-	</a> 
-		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="border-radius: 5px"/> 
-	</a> 
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-	</a>
-	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" style="background-color: #fff; border-radius: 5px"/> 
-	</a> 
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="border-radius: 5px" /> 
-	</a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="background-color: #E7E9EB; border-radius: 5px"/> 
-	</a>
-	<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: #E7E9EB; border-radius: 5px"/> 
-	</a> 
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-	<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-	</a>
-	<a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-	</a>
-	<a href="https://es.wikipedia.org/wiki/Bash" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
-	</a>
-	<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-	</a> 
-	<a href="https://auth0.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://avatars.githubusercontent.com/u/2824157" alt="auth0" width="40" height="40"/> 
-	</a> 
-	<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-	</a>  
-	<a href="https://ant.design/" target="_blank" rel="noreferrer"> 
-		<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant-design" width="40" height="40"/>
-	</a> 
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-	</a> 
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-	</a> 
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DTPF&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<br />
+## Links
 
-![David T. Pizarro Frick's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTPF&show_icons=true)
-<br />
-
-![David T. Pizarro Frick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTPF&layout=compact&hide_progress=false)
-
+[![Portfolio](https://img.shields.io/badge/dtpf.es-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dtpf.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-tomas-pizarro-frick/)
