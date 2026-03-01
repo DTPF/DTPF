@@ -6,7 +6,7 @@ Everything I build runs on my own self-managed infrastructure: bare-metal server
 
 ## What I'm Building
 
-- **[dauth](https://dauth.ovh)** — Multi-tenant authentication-as-a-service with per-tenant JWT, published npm packages, and OVH DNS integration.
+- **[dauth](https://dauth.ovh)** — Multi-tenant authentication-as-a-service with per-tenant JWT and published npm packages.
 - **[EasyMediaCloud](https://easymediacloud.dtpf.es)** — Media storage platform.
 - **[Dalist](https://dalist.ovh)** — Wishlist management app.
 - **[Audity](https://audity.dtpf.es)** — Music streaming platform.
