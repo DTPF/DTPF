@@ -79,8 +79,7 @@ Hello, and welcome to my GitHub profile! I'm a Software Developer and passionate
 <br />
 
 ![David T. Pizarro Frick's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTPF&show_icons=true)
-</br>
-![David T. Pizarro Frick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTPF&layout=compact&hide_progress=false)
+<br />
 
-</div>
+![David T. Pizarro Frick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTPF&layout=compact&hide_progress=false)
 
